@@ -8,4 +8,4 @@ Using:
 ~ Connecting Wires
 ~ Power source of choice
 ~ Light source or laser
-1 Optional 3-D Printed housing, from https://jackbaumgartel.myportfolio.com/
+1 Optional 3-D Printed housing, from https://jackbaumgartel.myportfolio.com/arduino-laser-timing-system
