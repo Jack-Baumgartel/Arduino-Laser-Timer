@@ -8,7 +8,11 @@ Using:
 1 LCD display (16x2)
 
 1 Photoresistor
+
 ~ Connecting Wires
+
 ~ Power source of choice
+
 ~ Light source or laser
+
 1 Optional 3-D Printed housing, from https://jackbaumgartel.myportfolio.com/arduino-laser-timing-system
