@@ -15,4 +15,6 @@ Using:
 
 ~ Light source or laser
 
-1 Optional 3-D Printed housing, from https://jackbaumgartel.myportfolio.com/arduino-laser-timing-system
+1 Optional 3-D Printed housing
+
+More info at https://jackbaumgartel.myportfolio.com/arduino-laser-timing-system
