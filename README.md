@@ -2,8 +2,11 @@
 Code to turn an Arduino Uno board into a laser timing system using a photoresistor, LCD display, and 3-D printed housing.
 
 Using:
+
 1 Arduino Uno Board
+
 1 LCD display (16x2)
+
 1 Photoresistor
 ~ Connecting Wires
 ~ Power source of choice
